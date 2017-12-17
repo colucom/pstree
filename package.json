@@ -1,11 +1,15 @@
 {
   "name": "@remy/pstree",
-  "version": "1.0.1",
+  "version": "1.1.101",
   "main": "lib/index.js",
   "scripts": {
     "test": "NO_PS=1 tap tests/*.test.js"
   },
-  "keywords": ["ps", "pstree", "ps tree"],
+  "keywords": [
+    "ps",
+    "pstree",
+    "ps tree"
+  ],
   "author": "Remy Sharp",
   "license": "MIT",
   "devDependencies": {
